@@ -111,9 +111,6 @@ At this point, you can choose to either initialize a new light node or recover a
     ```bash
     celestia light start --core.ip rpc.celestia.pops.one --p2p.network celestia
     ```
-   Expected Output:
-   <img width="1386" alt="LightNode Output" src="https://github.com/user-attachments/assets/086039c1-1075-4df8-a2ad-e4cfe4a9f01b">
-
 #### Option B: Recover an Existing Key from Mnemonic
 
 1. **Recover Key from Mnemonic**:
